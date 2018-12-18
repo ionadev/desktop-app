@@ -1,5 +1,5 @@
 {
-  "name": "discordimages-desktop",
+  "name": "discord-images-desktop",
   "version": "0.0.1",
   "description": "Discord Images Desktop App",
   "main": "./src/index.js",
