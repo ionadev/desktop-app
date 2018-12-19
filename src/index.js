@@ -14,6 +14,7 @@ function createWindow () {
         title: 'Discord Images Desktop',
         width: 1980,
         height: 1280.
+        icon: require('path').join(__dirname , 'assets/logo.png');
         /**
         webPreferences: {
             preload: join(__dirname, 'ui', 'api.js')
